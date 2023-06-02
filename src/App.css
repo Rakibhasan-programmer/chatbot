@@ -1,0 +1,12 @@
+.chat-message-box {
+  background-color: #f2f2f2;
+  margin: 1rem 25rem;
+  max-height: 450px;
+  overflow-y: auto;
+  border-radius: 25px;
+}
+.bg-color {
+  background-color: aliceblue;
+  padding: 1rem;
+  border-radius: 25px;
+}
