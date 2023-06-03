@@ -10,6 +10,8 @@ export const analyze = (value) => {
     return moment().format("h:mm:ss a");
   } else if (text.includes("what is your name")) {
     return "ChatBot";
+  } else if (text.includes("Best programming language")) {
+    return "JavaScript";
   } else if (text.includes("country")) {
     return "Bangladesh";
   } else if (text.includes("company")) {
