@@ -1,2 +1,2 @@
-# chatbot
-Simple React chatbot. You can simply ask questions and getting the answer accordingly.
+# chatbot-system
+Simple React chatbot. You can simply ask questions and get the answer accordingly.
